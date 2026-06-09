@@ -65,21 +65,3 @@
 | **Askora AI Chatbot** | Context-aware AI chatbot | Node.js, Gemini API |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Biswajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswajitdash-09&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitdash-09&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *From [Biswajitdash-09](https://github.com/Biswajitdash-09) — building at the intersection of AI and the web*
-
-</div>
