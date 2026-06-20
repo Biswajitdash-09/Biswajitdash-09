@@ -54,13 +54,3 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Resume Builder**](https://resume-builder-biswajit.vercel.app/) | ATS-friendly resume builder used by 120+ peers | React, TypeScript, ShadCN |
-| [**Resume Ranker**](https://resume-ranker-biswajit.vercel.app/) | AI-powered ATS resume scorer with reports & feedback | React, TypeScript, AI |
-| [**EduMentor AI**](https://edumentor-ai-biswajit.vercel.app/) | E-learning platform with real-time enrollment (IIT BBSR Hackathon) | React, Supabase, PostgreSQL |
-| **Askora AI Chatbot** | Context-aware AI chatbot | Node.js, Gemini API |
-
----
