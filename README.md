@@ -19,8 +19,7 @@
 - 🎓 B.Tech in IT @ **BCET Odisha** (2022–2026) | **8.5 CGPA**
 - 💼 Currently **Member of Technical Staff** @ **CodeMate AI**, Noida
 - 🛡️ Previously built production systems for **DRDO**
-- 🏆 Qualified **GATE CSE 2026** | AIR **23,686** in GATE CSE 2025 (out of 1,70,825)
-- 📍 Baleswar, Odisha, India
+- 🏆 Qualified **GATE CSE 2026** | AIR **23,686** in GATE CSE 2025
 
 ---
 
